@@ -1,6 +1,7 @@
 # Diseños
 
-Repositorio del curso de Fernando Herrera
+Repositorio del curso de 
+Herrera
 
-- [Fernando-Herrera.com](https://fernando-herrera.com)
+
 
